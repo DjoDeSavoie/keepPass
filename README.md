@@ -1,4 +1,4 @@
-**Full Projet** : https://github.com/yaniskrm/KeepPass
+**Full Project** : https://github.com/yaniskrm/KeepPass
 
 Password Manager Project
 
